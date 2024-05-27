@@ -12,3 +12,5 @@
 
 6. clear():
 It clears this list and also free all elements.
+
+    
